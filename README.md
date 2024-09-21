@@ -1,5 +1,5 @@
 # Ghidra_CPS2
----
+
 
 This is a work-in-progress Ghidra plugin to assist in the decompilation of CPS2 ROMs.
 
