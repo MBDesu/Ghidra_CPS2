@@ -5,7 +5,7 @@ This is a work-in-progress Ghidra plugin to assist in the disassembly and, hopef
 
 Features:
 - Loader that maps the IVT and memory
-- Buggy jump table resolution
+- Analyzer with buggy jump table resolution
 
 Future features:
 - Less buggy jump table resolution
